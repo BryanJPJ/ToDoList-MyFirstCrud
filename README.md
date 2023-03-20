@@ -1,5 +1,6 @@
 # ToDoList-MyFirstCrud
 
+<img src="./src/assets/imagenProyectos.jpg">
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
