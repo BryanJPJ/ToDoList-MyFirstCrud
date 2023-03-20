@@ -1,7 +1,7 @@
 # ToDoList-MyFirstCrud
 
-<img src="./src/assets/imagenProyectos.jpg">
-This template should help get you started developing with Vue 3 in Vite.
+<img src="./src/assets/imagenProyectos.jpg" width="100" height="40">
+This project it´s about making a simple CRUD with JavaScript
 
 ## Recommended IDE Setup
 
