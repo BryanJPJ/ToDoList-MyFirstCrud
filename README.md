@@ -1,6 +1,6 @@
 # ToDoList-MyFirstCrud
 
-<img src="./src/assets/imagenProyectos.jpg" width="500" height="500">
+<img src="./src/assets/imagenProyectos.jpg" width="700" height="500">
 This project it´s about making a simple CRUD with JavaScript
 
 ## Recommended IDE Setup
